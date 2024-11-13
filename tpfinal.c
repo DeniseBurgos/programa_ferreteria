@@ -1,5 +1,4 @@
 /*TRABAJO PRÁCTICO FINAL
-INTEGRANTES: Burgos Denise, Gimenez Cinthia*/
 
 #include <stdio.h>
 #include <string.h>
